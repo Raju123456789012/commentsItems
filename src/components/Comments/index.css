@@ -1,0 +1,122 @@
+.app-container {
+
+ background-color: white;
+
+ display: flex;
+
+ justify-content: center;
+
+ align-items: center;
+
+}
+
+.container {
+
+ background-color: white;
+
+
+
+ width: 80%;
+
+ width: 90vw;
+
+ padding-left: 7vh;
+
+ padding-right: 10px;
+
+ box-shadow: 2px 2px 2px 2px black;
+
+}
+
+.heading {
+
+ color: black;
+
+ font-size: 40px;
+
+ font-weight: bold;
+
+}
+
+.comments-container {
+
+ display: flex;
+
+ flex-direction: row;
+
+ justify-content: space-between;
+
+}
+
+.name-image {
+
+ height: 5vh;
+
+ width: 20vw;
+
+ color: black;
+
+ padding-left: 2vh;
+
+ border-radius: 5px;
+
+}
+
+.comments {
+
+ width: 20vw;
+
+ color: black;
+
+ padding-left: 2vh;
+
+ height: 15vh;
+
+ border-radius: 5px;
+
+ margin-top: 15px;
+
+}
+
+.button {
+
+ background-color: #0284c7;
+
+ text-align: center;
+
+ height: 5vh;
+
+ width: 15vw;
+
+ border-radius: 5px;
+
+ color: white;
+
+ padding-top: 5px;
+
+ padding-bottom: 5px;
+
+ font-size: 7px;
+
+ border: none;
+
+ margin-top: 15px;
+
+}
+
+.separator {
+
+ border: 1px solid black;
+
+}
+
+.column {
+
+ display: flex;
+
+ flex-direction: column;
+
+}
+
+
+

@@ -1,0 +1,222 @@
+.amber {
+  background-color: #f59e0b;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.blue {
+  background-color: #0b69ff;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.orange {
+  background-color: #f97316;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.emerald {
+  background-color: #10b981;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.teal {
+  background-color: #14b8a6;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.red {
+  background-color: #b91c1c;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.amber {
+  background-color: #f59e0b;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.blue {
+  background-color: #0b69ff;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.orange {
+  background-color: #f97316;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.emerald {
+  background-color: #10b981;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.teal {
+  background-color: #14b8a6;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.red {
+  background-color: #b91c1c;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  height: 6vh;
+  width: 6vw;
+  border-radius: 15vh;
+  text-align: center;
+}
+
+.list-container {
+  list-style-type: none;
+}
+
+.counting {
+  background-color: #0b69ff;
+
+  height: 3vh;
+
+  width: 3vw;
+
+  border-radius: 5px;
+
+  color: white;
+
+  font-size: 20px;
+
+  text-align: center;
+
+  padding-top: 2px;
+
+  padding-bottom: 10px;
+
+  padding-left: 8px;
+
+  padding-right: 3px;
+
+  margin-top: 10px;
+}
+
+.comment {
+  color: black;
+
+  font-size: 20px;
+
+  margin-left: 10px;
+}
+
+.container1 {
+  display: flex;
+}
+
+.container2 {
+  margin-left: 20px;
+}
+
+.like-container {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.button1 {
+  border: none;
+
+  background-color: white;
+}
+
+.like {
+  height: 3vh;
+
+  width: 3vw;
+
+  margin-top: 10px;
+
+  margin-right: 10px;
+}
+
+.delete-button {
+  height: 3vh;
+
+  width: 3vw;
+}
+
+.separator1 {
+  border: 1px solid black;
+}
+
+.container5 {
+  display: flex;
+
+  flex-direction: row;
+}
+.head {
+  color: black;
+  margin-left: 2vh;
+  font-size: 20px;
+  margin-top: 4vh;
+}
+.para {
+  color: black;
+  margin-left: 2vh;
+  margin-top: 4vh;
+}
+.comment-section {
+  margin-left: 7vh;
+}
+.color1 {
+  color: blue;
+}
+.color2 {
+  color: black;
+}
+.buttonfirst {
+  background-color: transparent;
+  border: none;
+  background-color: white;
+  outline: none;
+  margin-top: 2vh;
+}
